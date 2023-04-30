@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to my repo 👋
 
 <!--
 **carydeep/carydeep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<a href="https://app.daily.dev/carycool"><img src="https://api.daily.dev/devcards/c2544e808815481eb960c460f0f7755d.png?r=5is" width="300" alt="Phúc Võ Trọng's Dev Card"/></a>
+<a href="https://app.daily.dev/carycool"><img src="https://github.com/carydeep/carydeep/blob/master/devcard.svg" width="300" alt="Phúc Võ Trọng's Dev Card"/></a>
